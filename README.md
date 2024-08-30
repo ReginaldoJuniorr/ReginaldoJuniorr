@@ -30,4 +30,4 @@
 </details>
 
 # Entre em contato comigo no: 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/reginald0-junior)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](htpps//www.linkedin.com/in/reginald0-junior)
