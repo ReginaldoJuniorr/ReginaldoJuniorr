@@ -12,7 +12,7 @@
 <p align="left">
 Sobre mim
   
-Apaixonado por data analytics, big data e visualização de dados, estou em busca de uma oportunidade como *Analista de Dados Júnior*. Tenho conhecimentos em análise de dados, ferramentas de visualização e estou sempre buscando aplicar novas técnicas para resolver problemas reais e gerar insights valiosos.
+Apaixonado por data analytics, big data e visualização de dados, estou em busca de uma oportunidade como *Analista de Dados Júnior ou Cientista de Dados Júnior*. Tenho conhecimentos em análise de dados, ferramentas de visualização, estátistica e estou sempre buscando aplicar novas técnicas para resolver problemas reais e gerar insights valiosos.
 </p>
 
 <p align="left">
