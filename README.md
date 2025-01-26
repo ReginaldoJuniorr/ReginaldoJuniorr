@@ -7,7 +7,7 @@
 🎓 Sou Graduado em Processos Gerenciais pelo Centro Universitário de Lins
 </p>
 <p align="left">
-📚 Pós-graduando em Gestão da TI, Ciências de Dados e Inteligência Artificial pela UNINTER
+📚 Pós-graduado em Gestão da TI, Ciências de Dados e Inteligência Artificial pela UNINTER
 </p>
 <p align="left">
 Sobre mim
