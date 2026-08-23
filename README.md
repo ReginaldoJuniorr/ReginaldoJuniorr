@@ -41,7 +41,7 @@
 
 - 📊 **[Dashboard Global de Vendas (Power BI)](https://github.com/ReginaldoJuniorr/Powerbi_Sales_Dashboard)** — Painéis interativos para análise de indicadores e performance de vendas globais, focando em visualização de dados e inteligência de negócios.
 - ☁️ **[Análise Meteorológica (BigQuery / SQL)](https://github.com/ReginaldoJuniorr/Analise_de_dados_meteorol-gicos_no_BigQuery)** — Exploração e análise de dados climáticos diários das estações de La Guardia e JFK, utilizando consultas na nuvem via Google BigQuery.
-- ⚙️ **[Sistema de Distribuição de Arquivos (Python)](https://github.com/ReginaldoJuniorr/Sistema_de_Distribui-o_de_Arquivos)** — Aplicação Cliente-Servidor com a biblioteca nativa `socket`, simulando uma interface de recuperação de dados baseada em conceitos de RAG.
+- ⚙️ **[Sistema de Distribuição de Arquivos (Python)](https://github.com/ReginaldoJuniorr/Sistema_de_Distribui-o_de_Arquivos)** — Aplicação Cliente-Servidor com a biblioteca nativa `socket`, simulando o protocolo 3-way handshake.
 - 📈 **[Análise Descritiva Salarial (R)](https://github.com/ReginaldoJuniorr/Analise_de_salario_Wages1)** — Aplicação de técnicas de estatística descritiva e extração de insights na base de dados Wages1.
 
 <br/>
