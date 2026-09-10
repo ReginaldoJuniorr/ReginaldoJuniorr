@@ -1,61 +1,124 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/e5df11fe-9b6a-41f9-81e3-c12c19c3d5c2" width="250px" alt="Ilustração de um computador">
-  
-  <h1>Olá, eu sou o Reginaldo Junior! 👋</h1>
-  <h3>Estudante de Sistemas de Informação | Foco em Dados & Operações</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00B4D8&height=190&section=header&text=Reginaldo%20Junior&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=An%C3%A1lise%20de%20Dados%20%7C%20Tecnologia%20%2B%20Neg%C3%B3cios&descAlignY=55&descSize=18" width="100%" alt="Banner Reginaldo Junior" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=0A66C2&center=true&vCenter=true&width=760&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+BigQuery;Em+busca+de+est%C3%A1gio+em+An%C3%A1lise+de+Dados" alt="Apresentação profissional" />
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junior-reginaldo/)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:9medeirosreginaldo@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ReginaldoJuniorr)
+
 </div>
 
-<br/>
+## 👨‍💻 Sobre mim
 
-### 👨‍💻 Sobre mim
-- 🎓 Estudante de **Sistemas de Informação** (Dom Bosco) e Graduado em **Processos Gerenciais** (Lins).
-- 📚 Pós-graduado em **Gestão da TI** e **Ciências de Dados** (UNINTER).
-- 💼 Com uma base multidisciplinar que une Negócios e Tecnologia, atuo focando em otimizar rotinas, analisar informações e criar soluções inteligentes.
-- 🎯 Atualmente busco uma oportunidade de **estágio em Tecnologia, Análise de Dados ou Operações**.
-- 💡 Tenho facilidade com ferramentas tecnológicas e busco aplicar meus conhecimentos para gerar resultados reais e apoiar o dia a dia corporativo.
+Sou estudante de **Sistemas de Informação** em busca de uma oportunidade de **estágio em Análise de Dados**. Desenvolvo projetos com **SQL, Python, Power BI, Excel, BigQuery e R**, explorando desde a preparação dos dados até a criação de análises e dashboards.
 
-<br/>
+Minha formação em **Processos Gerenciais**, somada às pós-graduações em **Gestão da Tecnologia da Informação** e **Ciência de Dados**, permite unir visão de negócios e raciocínio analítico para transformar dados em informações úteis para a tomada de decisão.
 
-### 🚀 Principais Habilidades
+- 🎓 Sistemas de Informação — Centro Universitário Dom Bosco
+- 💼 Interesse em BI, Data Analytics e automação de processos
+- 📊 Experiência prática em projetos de análise, visualização e tratamento de dados
+- 🌱 Atualmente aprofundando conhecimentos em SQL, Python, Power BI e Google Cloud
+
+## 🟢 Radar atual
+
+| 📚 Aprimorando | 🛠️ Desenvolvendo | 🎯 Objetivo |
+| :--- | :--- | :--- |
+| SQL, Python e Google Cloud | Projetos de dados para portfólio | Estágio em Análise de Dados |
+
+## 🧰 Tecnologias e ferramentas
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <br><br>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white">
-  <br><br>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/IBM%20Cloud-052FAD?style=for-the-badge&logo=ibm&logoColor=white">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 </div>
 
-<br/>
+## 🚀 Projetos em destaque
 
-### 📌 Projetos em Destaque
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 📊 **[Dashboard Global de Vendas (Power BI)](https://github.com/ReginaldoJuniorr/Powerbi_Sales_Dashboard)** — Painéis interativos para análise de indicadores e performance de vendas globais, focando em visualização de dados e inteligência de negócios.
-- ☁️ **[Análise Meteorológica (BigQuery / SQL)](https://github.com/ReginaldoJuniorr/Analise_de_dados_meteorol-gicos_no_BigQuery)** — Exploração e análise de dados climáticos diários das estações de La Guardia e JFK, utilizando consultas na nuvem via Google BigQuery.
-- ⚙️ **[Sistema de Distribuição de Arquivos (Python)](https://github.com/ReginaldoJuniorr/Sistema_de_Distribui-o_de_Arquivos)** — Aplicação Cliente-Servidor com a biblioteca nativa `socket`, simulando o protocolo 3-way handshake.
-- 📈 **[Análise Descritiva Salarial (R)](https://github.com/ReginaldoJuniorr/Analise_de_salario_Wages1)** — Aplicação de técnicas de estatística descritiva e extração de insights na base de dados Wages1.
+### 📊 Dashboard Global de Vendas
 
-<br/>
+Dashboard interativo para acompanhar vendas, categorias, países, descontos e prioridades de entrega. O projeto inclui limpeza de dados no Power Query e análise visual de indicadores de negócio.
 
-### 📫 Vamos nos conectar!
+**Tecnologias:** `Power BI` `Power Query`
+
+🔗 [Ver projeto](https://github.com/ReginaldoJuniorr/Powerbi_Sales_Dashboard)
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ Análise Meteorológica
+
+Consultas a dados públicos da NOAA para analisar temperatura, vento e precipitação nas estações LaGuardia e JFK, com visualização dos resultados no Power BI.
+
+**Tecnologias:** `SQL` `BigQuery` `Power BI`
+
+🔗 [Ver projeto](https://github.com/ReginaldoJuniorr/Analise_de_dados_meteorol-gicos_no_BigQuery)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ Central de Telemetria
+
+Aplicação cliente-servidor que coleta métricas de CPU, memória e disco e envia relatórios a uma central de monitoramento por meio de sockets TCP.
+
+**Tecnologias:** `Python` `Sockets TCP` `psutil`
+
+🔗 [Ver projeto](https://github.com/ReginaldoJuniorr/Sistema_de_Distribui-o_de_Arquivos)
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 Análise Descritiva de Salários
+
+Estudo estatístico de salários com medidas de tendência central e dispersão, distribuição de frequências, boxplot e histograma.
+
+**Tecnologias:** `R` `Estatística Descritiva`
+
+🔗 [Ver projeto](https://github.com/ReginaldoJuniorr/Analise_de_salario_Wages1)
+
+</td>
+</tr>
+</table>
+
+## 💡 Diferenciais
+
+- **Tecnologia + negócios:** formação multidisciplinar para compreender tanto os dados quanto o contexto em que são utilizados.
+- **Comunicação visual:** criação de dashboards que facilitam a leitura de indicadores e resultados.
+- **Aprendizado contínuo:** desenvolvimento frequente de projetos práticos e estudos em dados e computação em nuvem.
+- **Visão analítica:** organização, investigação de padrões e transformação de informações em conclusões claras.
+
+## 📊 Atividade no GitHub
 
 <div align="center">
-  <a href="https://wa.me/5524998608780" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-  <a href="https://www.linkedin.com/in/reginald0-junior" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:9medeirosreginaldo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ReginaldoJuniorr&bg_color=ffffff&color=0A66C2&line=00B4D8&point=0A66C2&area=true&hide_border=true" width="100%" alt="Gráfico de atividade no GitHub" />
+
+</div>
+
+<div align="center">
+
+### Vamos transformar dados em decisões?
+
+[![LinkedIn](https://img.shields.io/badge/Conecte--se_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junior-reginaldo/)
+[![E-mail](https://img.shields.io/badge/Enviar_e--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:9medeirosreginaldo@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:0A66C2&height=100&section=footer" width="100%" alt="" />
+
 </div>
