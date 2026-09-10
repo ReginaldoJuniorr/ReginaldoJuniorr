@@ -104,14 +104,6 @@ Estudo estatístico de salários com medidas de tendência central e dispersão,
 - **Aprendizado contínuo:** desenvolvimento frequente de projetos práticos e estudos em dados e computação em nuvem.
 - **Visão analítica:** organização, investigação de padrões e transformação de informações em conclusões claras.
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ReginaldoJuniorr&show_icons=true&hide_border=true&locale=pt-br&title_color=0A66C2&icon_color=00B4D8&text_color=586069&bg_color=00000000" height="170" alt="Estatísticas do GitHub de Reginaldo Junior" />
-
-</div>
-
 <div align="center">
 
 ### Vamos transformar dados em decisões?
