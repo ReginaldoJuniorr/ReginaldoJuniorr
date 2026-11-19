@@ -16,7 +16,7 @@
 
 Sou estudante de **Sistemas de Informação** em busca de uma oportunidade de **estágio em Análise de Dados**. Desenvolvo projetos com **SQL, Python, Power BI, Excel, BigQuery e R**, explorando desde a preparação dos dados até a criação de análises e dashboards.
 
-Minha formação em **Processos Gerenciais**, somada às pós-graduações em **Gestão da Tecnologia da Informação** e **Ciência de Dados**, permite unir visão de negócios e raciocínio analítico para transformar dados em informações úteis para a tomada de decisão.
+Minha formação em **Processos Gerenciais** me ajuda a entender problemas de negócio e a usar dados para apoiar a tomada de decisão.
 
 - 🎓 Sistemas de Informação — Centro Universitário Dom Bosco
 - 💼 Interesse em BI, Data Analytics e automação de processos
